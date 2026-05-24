@@ -1,15 +1,15 @@
 @import "tailwindcss";
 
 :root {
-  --bg: #0d1117;
-  --surface: #161b22;
-  --surface-2: #1c2128;
-  --border: #30363d;
-  --text: #e6edf3;
-  --muted: #8b949e;
+  --bg: #1a1b26;
+  --surface: #1f2335;
+  --surface-2: #24283b;
+  --border: #2e3347;
+  --text: #c0caf5;
+  --muted: #787c99;
   --accent: #7c3aed;
-  --accent-light: #a78bfa;
-  --accent-glow: rgba(124, 58, 237, 0.15);
+  --accent-light: #bb9af7;
+  --accent-glow: rgba(187, 154, 247, 0.12);
 }
 
 html { scroll-behavior: smooth; }
